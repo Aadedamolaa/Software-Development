@@ -1,0 +1,41 @@
+.traffic-light {
+  width: 100px;
+  height: 300px;
+  background-color: #a8a8c2;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.light {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 auto;
+  border: 1px solid white;
+}
+
+.red {
+  background-color: red;
+ 
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250vh;
+  background-image: url(images/IKEAYOMI.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

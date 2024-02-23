@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url("C:/Users/USER/Downloads/MY CARD(4GB)/Xender/image/20220112_002327.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+    background-blend-mode: color-burn;
+
+}
+#Weight-container{
+    border: 1px solid rgb(15, 0, 0);
+    margin: 25% 10%;
+    background-color: rgb(224, 247, 16);
+}
+.space{
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+#Form{
+    color: #1b0000;
+}
+#Weight{
+    background-color: rgb(0, 255, 136);
+}
+#btn{
+    background-color: rgb(0, 255, 136);
+}
