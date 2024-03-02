@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.text-white{
+    color: white;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.align-right{
+    text-align: right;
+}
+
+#company-name,#passport{
+    width: 75%;
+}
+#logo,#qrcode{
+    width: 30%;
+}
+
+.bg-gold{
+    background-color: gold;
+    height: 30px;
+}
+
+#space{
+    height: 10px;
+}
+
+.border-bottom-white{
+    border-bottom: 1px solid white;
+}
+
+.border-bottom-black{
+    border-bottom: 1px solid black
+}
